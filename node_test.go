@@ -23,7 +23,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/zillow/go-yaml.v3"
+	"github.com/zillow/go-yaml"
 	. "gopkg.in/check.v1"
 )
 
