@@ -26,8 +26,8 @@ import (
 	"net"
 	"os"
 
+	"github.com/zillow/go-yaml"
 	. "gopkg.in/check.v1"
-	"gopkg.in/yaml.v3"
 )
 
 type jsonNumberT string
