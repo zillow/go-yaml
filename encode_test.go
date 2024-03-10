@@ -26,7 +26,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/zillow/go-yaml"
+	"github.com/zillow/go-yaml/v3"
 	. "gopkg.in/check.v1"
 )
 

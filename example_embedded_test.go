@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/zillow/go-yaml"
+	"github.com/zillow/go-yaml/v3"
 )
 
 // An example showing how to unmarshal embedded
